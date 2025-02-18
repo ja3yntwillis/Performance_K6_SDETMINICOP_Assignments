@@ -18,5 +18,6 @@ export default function beginner_challange_simple_api_load_test() {
   });
 
   //response time
-  console.info(`Test Response Time : ${res.timings.duration} ms`);
+  console.info(`Test Response Time : ${res.timings.duration} ms`); 
+
 }
